@@ -8,7 +8,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Pozdrav iz aplikacije od Antonio Hmura" << endl;
+	cout << "Pozdrav iz aplikacije od Antonio Hmura." << endl;
+	cout << "Student prve godine diplomskog studija." << endl;
     return 0;
 }
 
